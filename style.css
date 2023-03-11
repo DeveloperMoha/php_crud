@@ -1,0 +1,37 @@
+body{
+    background-color: aliceblue;
+}
+.contact_form{
+     margin: 50 auto;
+    padding: 20px;
+ }
+.inputfield{
+     padding: 15px;
+     width: 300PX;
+    margin: 10px auto;
+ }
+.btn{
+     padding: 15px 30px;
+    margin-top: 5px;
+
+}
+.err{
+    font-size: 20px;
+    color: red;
+}
+tr{
+    background-color: darkgrey;
+}
+td{
+    border: 5px solid greenyellow;
+}
+.insertdata{
+    float: left;
+    margin-right: 150px;
+}
+.delete{
+    background-color: red;
+}
+.update{
+    background-color: green;
+}
